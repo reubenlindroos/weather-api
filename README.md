@@ -12,3 +12,9 @@ To run the application with candidate number 2 and outputting the results as out
 python main.py -n 2 -o out.json 
 ```
 
+To run the tests run:
+
+```
+python tests.tp
+```
+
